@@ -1,5 +1,5 @@
 const date = new Date();
-const today = 6;
+const today = date.getDay();
 
 const foodList = ["Stängt", "Kroppkakor", "Hamburgare & Pommes", "Pizza", "Flygande Jakob", "Biff med Bea", "Stängt"];
 const showMenu = document.getElementById("lunch");
