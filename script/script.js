@@ -33,27 +33,3 @@ switch (today) {
     default: 
     console.log("Stängt!");
 }
-
-// function whatDay() {
-//     let day;
-//     switch (new Date().getDay())
-//     {
-//         case 0: "Kroppkakor";
-//         break;
-//         case 1: "Hamburgare & Pommes";
-//         break;
-//         case 2: "Pizza";
-//         break;
-//         case 3: "Flygande Jakob";
-//         break;
-//         case 4: "Biff med Bea";
-//         break;
-//         case 5: "Stängt";
-//         break;
-//         case 6: "Stängt";
-//         break;
-//         default:
-//             day = "Unknown Day";
-//     }
-//     document.getElementById("lunch").innerHTML = day; + 
-// }
